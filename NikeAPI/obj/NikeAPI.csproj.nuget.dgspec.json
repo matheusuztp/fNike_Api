@@ -1,25 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "/home/magu/Desktop/NikeAPI/NikeAPI/NikeAPI.csproj": {}
+    "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\web api core\\NikeAPI\\NikeAPI.csproj": {}
   },
   "projects": {
-    "/home/magu/Desktop/NikeAPI/NikeAPI/NikeAPI.csproj": {
+    "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\web api core\\NikeAPI\\NikeAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/magu/Desktop/NikeAPI/NikeAPI/NikeAPI.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\web api core\\NikeAPI\\NikeAPI.csproj",
         "projectName": "NikeAPI",
-        "projectPath": "/home/magu/Desktop/NikeAPI/NikeAPI/NikeAPI.csproj",
-        "packagesPath": "/home/magu/.nuget/packages/",
-        "outputPath": "/home/magu/Desktop/NikeAPI/NikeAPI/obj/",
+        "projectPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\web api core\\NikeAPI\\NikeAPI.csproj",
+        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\web api core\\NikeAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/magu/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.105/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
