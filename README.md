@@ -1,4 +1,1 @@
-# fNike_Api
-# fNike_Api
-# fNike_Api
-# fNike_Api
+h1 Api feita em Asp.Net Core 6
